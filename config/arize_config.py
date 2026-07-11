@@ -1,0 +1,7 @@
+SPACE_ID="YOUR_SPACE_ID"
+
+API_KEY="YOUR_API_KEY"
+
+MODEL_ID="Retail_Sales_Model"
+
+MODEL_VERSION="v1"
